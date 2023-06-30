@@ -8,7 +8,11 @@
   "includeFork": true,
   "theme": "dark.css",
   "types": [
-   "all"
-  ]
+   "owner"
+  ],
+  "twitter": "Andrea1Mariani",
+  "linkedin": "andrea-mariani-584138175",
+  "medium": null,
+  "dribbble": null
  }
 ]

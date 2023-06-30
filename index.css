@@ -554,13 +554,13 @@ body {
       rgba(10, 10, 10, 0.3),
       rgb(10, 10, 10, 1)
     ),
-    url("https://images.unsplash.com/photo-1557277770-baf0ca74f908?w=1634");
+    url("https://w0.peakpx.com/wallpaper/76/699/HD-wallpaper-sky-black-forest-galaxy-nebula-night-purple-stars.jpg");
   --background-background: linear-gradient(
       0deg,
       rgba(10, 10, 10, 1),
       rgba(10, 10, 10, 0.6)
     ),
-    url("https://images.unsplash.com/photo-1557277770-baf0ca74f908?w=1634") center center fixed;
+    url("https://w0.peakpx.com/wallpaper/76/699/HD-wallpaper-sky-black-forest-galaxy-nebula-night-purple-stars.jpg") center center fixed;
   --height: 50vh;
 }
 
@@ -591,6 +591,6 @@ body {
         rgba(10, 10, 10, 1),
         rgba(10, 10, 10, 0)
       ),
-      url("https://images.unsplash.com/photo-1557277770-baf0ca74f908?w=1634") !important;
+      url("https://w0.peakpx.com/wallpaper/76/699/HD-wallpaper-sky-black-forest-galaxy-nebula-night-purple-stars.jpg") !important;
   }
 }
