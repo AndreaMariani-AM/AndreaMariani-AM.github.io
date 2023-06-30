@@ -5,10 +5,14 @@
   "userimg": "https://avatars.githubusercontent.com/u/71487811?v=4",
   "sort": "created",
   "order": "asc",
-  "includeFork": false,
-  "theme": "light.css",
+  "includeFork": true,
+  "theme": "dark.css",
   "types": [
-   "all"
-  ]
+   "owner"
+  ],
+  "twitter": "Andrea1Mariani",
+  "linkedin": "andrea-mariani-584138175",
+  "medium": null,
+  "dribbble": null
  }
 ]
