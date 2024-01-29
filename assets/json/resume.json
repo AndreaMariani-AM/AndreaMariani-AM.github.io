@@ -1,48 +1,50 @@
 {
   "basics": {
-    "name": "Andrea Mariani",
+    "name": "Xinming Tu",
     "label": "Researcher",
     "image": "",
-    "email": "andrea.mariani@ieo.it",
+    "email": "tuxm@cs.washington.edu",
     "location": {
-      "address": "Via Adamello 16,",
-      "postalCode": "20139",
-      "city": "Milan",
-      "countryCode": "IT",
-      "region": "Lombardy"
+      "address": "Paul G. Allen Center,",
+      "postalCode": "WA 98195",
+      "city": "Seattle",
+      "countryCode": "US",
+      "region": "Washington"
     },
     "profiles": [
       {
         "network": "Twitter",
-        "username": "Andrea1Mariani",
-        "url": "https://twitter.com/Andrea1Mariani"
+        "username": "xinmingtu",
+        "url": "https://twitter.com/tuxinming"
       }
     ]
   },
   "work": [
     {
-      "name": "Epigenetics Mechanisms of Cancer",
-      "position": "PhD Student in Systems Medicine",
-      "startDate": "2021-10",
-      "endDate": "Present",
-      "summary": "Genomics, Epigenomics and Transcriptional Control",
-      "highlights": []
+      "name": "Genentech, Research and Early Development",
+      "position": "Research Intern",
+      "startDate": "2023-6",
+      "endDate": "2023-9",
+      "summary": "Work with Romain Lopez at Aviv Regev's lab",
+      "highlights": [
+        "Perturbation modeling"
+      ]
     },
     {
-        "name": "European Institute of Oncology",
-        "position": "Bioinformaticians",
-        "startDate": "2021-6",
-        "endDate": "Present",
-        "summary": "Computational Analysis of different Omics technologies",
+        "name": "Microsoft Research Asia Lab, China",
+        "position": "Research Intern",
+        "startDate": "2019-10",
+        "endDate": "2020-4",
+        "summary": "Machine Learning & Computational Biology Group ",
         "highlights": [
         ]
     },
     {
-        "name": "University of Helsinki, Finland",
-        "position": "Research Associate",
-        "startDate": "2020-01",
-        "endDate": "2020-12",
-        "summary": "Molecular biology of Rare Cancers, RaCaRe research group",
+        "name": "Yale University, US",
+        "position": "Research Intern",
+        "startDate": "2019-6",
+        "endDate": "2019-9",
+        "summary": "Center for Statistical Genomics and Proteomics, Hongyu Zhao's lab",
         "highlights": [
         ]
     }
@@ -53,31 +55,24 @@
         "conference": ["ISMB/ECCB(2023)", "NeurIPS(2023)", "KDD(2023)", "RECOMB(2021-2022)", "MLCB(2022)"]
     }
   ],
-  "volunteer": [
-    {
-      "organization": "FEBS-IUBMB-ENABLE 2023 Conference",
-      "position": "Vice Chair of the Scientific Organizing Committee",
-      "url": "https://febs-iubmb-enableconference.org/cologne-2023/",
-      "summary": "Vice Chair for the FEBS-IUBMB-ENABLE 2023 Conference Scientific Organizing Committee. Organized Keynote Speakers and Topics of the session."
-    }
-  ],
+  "volunteer": [],
   "education": [
     {
-      "institution": "European School of Molecular Medicine",
-      "area": "Systems Medicine and Computational Biology",
-      "studyType": "PhD Candidate",
-      "startDate": "2021-10",
-      "endDate": "Present",
+      "institution": "University of Washington, Seattle, US",
+      "area": "Computer Science & Computational Molecular Biology",
+      "studyType": "Doctor of Philosophy ",
+      "startDate": "2021-9",
+      "endDate": "Now",
       "score": "",
       "courses": [
       ]
     },
     {
-      "institution": "University of Pavia, Pavia, Italy",
-      "area": "Pharmacy and Drug Sciences",
-      "studyType": "Combined BSc. and MSc",
-      "startDate": "2014",
-      "endDate": "2019",
+      "institution": "Peking University, Beijing, China",
+      "area": "Biological Science & Computer Science",
+      "studyType": "Bachelor of Science",
+      "startDate": "2016-9",
+      "endDate": "2021-6",
       "score": "",
       "courses": [
       ]
@@ -85,19 +80,31 @@
   ],
   "awards": [
     {
-        "title": "AIRC Fellowship for Italy Pre-Doc",
-        "date": "2024-01",
+        "title": "Paul G. Allen First-Year Graduate Student Fellowship",
+        "date": "2021-9",
         "summary": ""
     },
     {
-      "title": "UNIMI PhD Fellowship in Systems Medicine",
-      "date": "2021-10",
+      "title": "Outstanding Graduates of Peking University",
+      "date": "2021-6",
       "summary": ""
     },
+    {
+        "title": "Outstanding Graduates of Beijing",
+        "date": "2021-6",
+        "summary": ""
+    },
+    {
+        "title": "ShenTong Graduates ",
+        "date": "2021-6",
+        "summary": "Highest Graduate honor of School of Life Science at Peking University"
+    }
   ],
   "certificates": [],
   "publications": [],
   "skills": [],
+  "languages": [
+  ],
   "interests": [],
   "references": [],
   "projects": []
