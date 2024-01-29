@@ -1,0 +1,77 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Andrea Mariani
+    - name: Date of Birth
+      value: 25th of March 1995
+    - name: Languages
+      value: English, Italian
+
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD Student
+      institution: European School of Molecular Medicine
+      year: Present
+      description:
+	- PhD Student in Systems Medicine at Epigenetics Mechanisms of Cancer's lab
+    - title: Pharmacy MSc Degree
+      institution: University of Pavia, Pavia, Italy
+      year: 2019
+      description:
+        - Combined BSc. and MSc in Pharmacy and Drug Sciences. Molecular biology + Chemistry
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: PhD Students in Comp Bio
+      institution: European School of Molecular Medicine (SEMM) and European institue of Oncology (IEO), Milan, Italy
+      year: 2021 - Present
+      description:
+        - Passionate about Genomics, Epigenomics and Transcriptional regulation. Machine Learning for Genomic Regulation
+
+    - title: Bioinformatician 
+      institution: European Institue of Oncology (IEO), Milan, Italy
+      year: 2021 - Present
+      description:
+        - Analysis of different Omics technologies.
+
+    - title: Researcher
+      institution: University of Helsinki, Helsinki, Finland
+      year: 2020
+
+- title: Open Source Projects
+  type: time_table
+  contents:
+    - title: <a href="https://a>
+      year: 2015-now
+      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 1921
+      items:
+        - Nobel Prize in Physics
+        - Matteucci Medal
+    - year: 2029
+      items:
+        - Max Planck Medal
+
+- title: Academic Interests
+  type: nested_list
+  contents:
+    - title: Topic 1.
+      items:
+        - Description 1.
+        - Description 2.
+    - title: Topic 2.
+      items:
+        - Description 1.
+        - Description 2.
+
+- title: Other Interests
+  type: list
+  contents:
+    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
