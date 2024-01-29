@@ -24,58 +24,44 @@
   },
   "work": [
     {
-      "name": "Genentech, Research and Early Development",
-      "position": "Research Intern",
-      "startDate": "2023-6",
-      "endDate": "2023-9",
-      "summary": "Work with Romain Lopez at Aviv Regev's lab",
-      "highlights": [
-        "Perturbation modeling"
-      ]
+      "name": "Bioinformatician",
+      "position": "Bioinformatics Scientist",
+      "startDate": "2021/06",
+      "endDate": "Present",
+      "summary": "Working with Genomics/Epigenomics and Transcriptomics data",
     },
     {
-        "name": "Microsoft Research Asia Lab, China",
-        "position": "Research Intern",
-        "startDate": "2019-10",
-        "endDate": "2020-4",
-        "summary": "Machine Learning & Computational Biology Group ",
+        "name": "Researcher",
+        "position": "Research Assistant",
+        "startDate": "2020/01",
+        "endDate": "2020/12",
+        "summary": "Molecular Bioogy of Cancer",
         "highlights": [
         ]
-    },
-    {
-        "name": "Yale University, US",
-        "position": "Research Intern",
-        "startDate": "2019-6",
-        "endDate": "2019-9",
-        "summary": "Center for Statistical Genomics and Proteomics, Hongyu Zhao's lab",
-        "highlights": [
-        ]
-    }
   ],
-  "Academic Service":[
-    {
-        "name": "Reviewer",
-        "conference": ["ISMB/ECCB(2023)", "NeurIPS(2023)", "KDD(2023)", "RECOMB(2021-2022)", "MLCB(2022)"]
-    }
+  "Academic Service":[],
+  
+  "volunteer": [
+    
   ],
-  "volunteer": [],
+  
   "education": [
     {
-      "institution": "University of Washington, Seattle, US",
-      "area": "Computer Science & Computational Molecular Biology",
-      "studyType": "Doctor of Philosophy ",
-      "startDate": "2021-9",
-      "endDate": "Now",
+      "institution": "",
+      "area": "",
+      "studyType": " ",
+      "startDate": "",
+      "endDate": "",
       "score": "",
       "courses": [
       ]
     },
     {
-      "institution": "Peking University, Beijing, China",
-      "area": "Biological Science & Computer Science",
-      "studyType": "Bachelor of Science",
-      "startDate": "2016-9",
-      "endDate": "2021-6",
+      "institution": "",
+      "area": "B",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "",
       "score": "",
       "courses": [
       ]
@@ -83,24 +69,24 @@
   ],
   "awards": [
     {
-        "title": "Paul G. Allen First-Year Graduate Student Fellowship",
-        "date": "2021-9",
+        "title": "",
+        "date": "",
         "summary": ""
     },
     {
-      "title": "Outstanding Graduates of Peking University",
-      "date": "2021-6",
+      "title": "",
+      "date": "",
       "summary": ""
     },
     {
-        "title": "Outstanding Graduates of Beijing",
-        "date": "2021-6",
+        "title": "",
+        "date": "",
         "summary": ""
     },
     {
-        "title": "ShenTong Graduates ",
-        "date": "2021-6",
-        "summary": "Highest Graduate honor of School of Life Science at Peking University"
+        "title": "",
+        "date": "",
+        "summary": ""
     }
   ],
   "certificates": [],
