@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.semm.it/'>European School of Molecular Medicine</a>. Milan, Italy
+subtitle: <a href='https://www.semm.it/'> European School of Molecular Medicine</a>. Milan, Italy
 
 profile:
   align: right
