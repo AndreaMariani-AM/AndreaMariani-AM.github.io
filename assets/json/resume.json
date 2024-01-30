@@ -68,5 +68,18 @@
       "courses": [
       ]
     }
-  ]
+  ],
+  "awards": [
+    {
+        "title": "AIRC Fellowship for Italy Pre-Doc",
+        "date": "2024-01",
+        "awarder": "AIRC",
+        "url": "https://www.direzionescientifica.airc.it/funding-for-research/fellowship/"
+    },
+    {
+      "title": "UNIMI PhD Fellowship in Systems Medicine",
+      "date": "2021-10",
+      "awarder": "https://www.semm.it/"
+    }
+  ],
 }
