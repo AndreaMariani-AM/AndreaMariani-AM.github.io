@@ -4,7 +4,7 @@ permalink: /teaching/
 title: cv of failures
 description: This is a compendium of non achievements 
 nav: true
-nav_order: 6
+nav_order: 5
 ---
 
 # Year 2023
