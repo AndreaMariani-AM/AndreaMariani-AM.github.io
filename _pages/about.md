@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a third year PhD student at the [Department of Experimental Oncology](https://www.research.ieo.it/) at European Institute of Oncology supervised by [Diego Pasini](https://www.research.ieo.it/research-and-technology/principal-investigators/diego-pasini/). Before my PhD, I did a combined BSc. and MSc. in Pharmacy at the University of Pavia, Italy. During my undergraduate, I worked a lot in molecular biology and chemistry. Right before starting my PhD, i worked in the [Rare Cancers Research group (RaCaRe)](https://www.helsinki.fi/en/researchgroups/rare-cancers-research-group/group) at the University of Helsinki, Finland.  
+I am a third year PhD student at the [Department of Experimental Oncology](https://www.research.ieo.it/) at European Institute of Oncology supervised by [Diego Pasini](https://www.research.ieo.it/research-and-technology/principal-investigators/diego-pasini/). Before my PhD, I did a combined BSc. and MSc. in Pharmacy at the University of Pavia, Italy. During my undergraduate, I worked a lot on molecular biology and chemistry. Right before starting my PhD, i worked in the [Rare Cancers Research group (RaCaRe)](https://www.helsinki.fi/en/researchgroups/rare-cancers-research-group/group) at the University of Helsinki, Finland.  
 
 My research interest is analyzing complex data to study regulatory genomics and transcriptional control. Recently, i'm developing an interest in using/developing DL methods to study cis-regulatoty elements.
 
