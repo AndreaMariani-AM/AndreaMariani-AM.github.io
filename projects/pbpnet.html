@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>PBPnet — Andrea Mariani</title>
+<meta name="description" content="PBPnet: a PyTorch extension of BPNet for modeling Polycomb protein binding in genomic sequences.">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../css/tokens.css">
+<link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+
+<!-- ── NAV ─────────────────────────────────── -->
+<nav class="nav">
+  <a href="../index.html" class="nav-brand">
+    <svg width="24" height="24" viewBox="0 0 26 26" fill="none" aria-hidden="true">
+      <circle cx="6"  cy="20" r="4.5" fill="var(--cp)" opacity="0.26"/>
+      <circle cx="13" cy="13" r="4.5" fill="var(--cp)" opacity="0.60"/>
+      <circle cx="20" cy="6"  r="4.5" fill="var(--cp)"/>
+    </svg>
+    Andrea Mariani
+  </a>
+  <ul class="nav-links">
+    <li><a href="../work.html">Work</a></li>
+    <li><a href="../writing.html">Writing</a></li>
+    <li><a href="../cv.html">CV</a></li>
+    <li><a href="../about.html">About Me</a></li>
+    <li><a href="../index.html#contact" class="nav-cta">Get in touch</a></li>
+  </ul>
+</nav>
+
+<!-- ── PROJECT ──────────────────────────────── -->
+<section class="sec" style="padding-top: calc(68px + 80px);">
+  <div class="wrap-sm">
+    <div class="tags" style="margin-bottom: 24px;"><span class="tag">Python</span><span class="tag">PyTorch</span><span class="tag">Genomics</span><span class="tag">Jupyter</span></div>
+    <h2 class="sec-h" style="margin-bottom: 24px;">PBPnet</h2>
+
+    <p style="font-size: 18px; color: var(--tx2); line-height: 1.78; margin-bottom: 24px;">
+      PBPnet extends the bpnet-lite framework with Polycomb-specific modifications to model how Polycomb proteins bind along genomic sequences. I built custom PyTorch DataLoaders for training and validation, added concurrent training support, and extended the genomic context to 5kb for finer signal resolution.
+    </p>
+
+    <p style="font-size: 17px; color: var(--tx2); line-height: 1.78; margin-bottom: 24px;">
+      To work within GPU memory constraints, I wrote a preprocessing pipeline that extracts sequences and binding signals from reference genomes and stores them in HDF5 format — making large genomic datasets tractable without on-the-fly generation.
+    </p>
+
+    <p style="font-size: 17px; color: var(--tx2); line-height: 1.78; margin-bottom: 40px;">
+      The result is a sequence-to-function model that helps decode the regulatory logic behind Polycomb-mediated chromatin organization.
+    </p>
+
+    <a href="https://github.com/AndreaMariani-AM/PBPnet" class="btn-p" target="_blank" rel="noopener">View on GitHub →</a>
+  </div>
+</section>
+
+<!-- ── FOOTER ────────────────────────────── -->
+<footer>
+  <div class="ft-brand">
+    <svg width="20" height="20" viewBox="0 0 26 26" fill="none" aria-hidden="true">
+      <circle cx="6"  cy="20" r="4.5" fill="var(--cp)" opacity="0.26"/>
+      <circle cx="13" cy="13" r="4.5" fill="var(--cp)" opacity="0.60"/>
+      <circle cx="20" cy="6"  r="4.5" fill="var(--cp)"/>
+    </svg>
+    Andrea Mariani
+  </div>
+  <div class="ft-links">
+    <a href="https://github.com/AndreaMariani-AM"                    target="_blank" rel="noopener">GitHub</a>
+    <a href="https://www.linkedin.com/in/andrea-mariani-584138175/"  target="_blank" rel="noopener">LinkedIn</a>
+    <a href="https://andreamariani1.substack.com"                    target="_blank" rel="noopener">Substack</a>
+  </div>
+  <span>© 2026 Andrea Mariani</span>
+</footer>
+
+</body>
+</html>
